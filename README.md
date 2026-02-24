@@ -1,4 +1,5 @@
-# DevOps Capstone Template
+# devops-capstone-project
+A microservice for managing customer accounts with REST API endpoints to create, read, update, delete, and list customers.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
